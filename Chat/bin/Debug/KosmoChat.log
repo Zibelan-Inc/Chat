@@ -1,0 +1,974 @@
+28/05/2021 8:08:40 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1268:
+28/05/2021 8:08:40 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1268:
+28/05/2021 8:08:45 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1268:
+28/05/2021 8:12:49 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1313:
+28/05/2021 8:12:49 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1313:
+28/05/2021 8:12:50 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1313:
+28/05/2021 8:13:26 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1313:
+28/05/2021 8:13:26 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1313:
+28/05/2021 8:14:51 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:14:51 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:14:53 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:14:53 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:14:53 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:14:54 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:14:54 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:14:55 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:14:56 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:14:56 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:14:56 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:14:57 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:07 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:07 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:08 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:09 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:09 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:09 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:11 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:11 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:12 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:13 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:14 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:15 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:16 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:18 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:20 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:16:22 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:17:43 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:17:43 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:17:44 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:17:47 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:17:48 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:17:50 AM:Referencia a objeto no establecida como instancia de un objeto.
+   en KosmoChat.frmMain.UserList_KeyDown(Object sender, KeyEventArgs e) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 2730:
+28/05/2021 8:17:50 AM:Referencia a objeto no establecida como instancia de un objeto.
+   en KosmoChat.frmMain.UserList_KeyDown(Object sender, KeyEventArgs e) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 2730:
+28/05/2021 8:17:50 AM:Referencia a objeto no establecida como instancia de un objeto.
+   en KosmoChat.frmMain.UserList_KeyDown(Object sender, KeyEventArgs e) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 2730:
+28/05/2021 8:17:51 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:17:52 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:17:56 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:17:59 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:18:05 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:18:07 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:18:07 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:18:08 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:18:10 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:18:12 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:25:08 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:25:08 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:25:10 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:25:10 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:25:10 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:25:11 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:25:11 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:25:16 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:25:16 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:25:18 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:25:18 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:25:20 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:25:21 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:36:32 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:36:32 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:36:35 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:36:35 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:36:39 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:36:39 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:36:40 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:36:41 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:36:42 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:43:23 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:43:23 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:43:24 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:46:39 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1316:
+28/05/2021 8:46:39 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1316:
+28/05/2021 8:46:40 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1316:
+28/05/2021 8:46:41 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1316:
+28/05/2021 8:46:41 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1316:
+28/05/2021 8:46:42 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1316:
+28/05/2021 8:46:43 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1316:
+28/05/2021 8:46:44 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1316:
+28/05/2021 8:51:04 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:51:04 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:51:04 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:51:13 AM:Referencia a objeto no establecida como instancia de un objeto.
+   en KosmoChat.frmMain.UserList_KeyDown(Object sender, KeyEventArgs e) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 2730:
+28/05/2021 8:51:14 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:51:14 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:51:15 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:51:16 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+28/05/2021 8:51:16 AM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:40:34 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:40:34 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:40:35 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:40:36 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:41:37 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:41:37 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:41:37 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:41:38 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:42:14 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:42:14 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:42:15 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:42:16 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:43:16 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:43:16 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:43:16 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:43:17 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:43:19 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:43:20 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:43:20 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:43:20 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:43:21 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:43:21 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:43:22 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:52:06 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:52:06 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:52:07 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:52:08 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:52:08 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:52:10 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:52:11 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:52:11 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:52:12 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:52:12 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:53:13 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:53:13 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 6:53:13 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 7:33:51 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 7:33:51 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+03/06/2021 7:33:52 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+04/06/2021 7:13:04 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+04/06/2021 7:13:04 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+04/06/2021 7:13:05 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+04/06/2021 7:13:05 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+04/06/2021 7:13:08 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+04/06/2021 7:13:09 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:
+04/06/2021 7:13:09 PM:El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.Collections.ArrayList.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   en System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   en System.Windows.Forms.DataGridView.get_Item(Int32 columnIndex, Int32 rowIndex)
+   en KosmoChat.frmMain.RenderCellText(Color color1, Color color2, DataGridViewCellPaintingEventArgs e, DataGridView dgv, Boolean search) en C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\frmMain.cs:línea 1315:

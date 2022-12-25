@@ -1,0 +1,292 @@
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\bin\Debug\KosmoChat.exe.config
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\bin\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\bin\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\bin\Debug\OM.Plugin.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\bin\Debug\OM.Packet.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\KosmoChat.csproj.ResolveComReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\TINserverlauncher.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Controles.UserPanel.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Emoticons.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmLoadingScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmFileTransfer.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmCP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmMP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmKeyUp.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmResize.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frm.frmUserZinc.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\Skynet.frmViewScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmInfo.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.MessageNotification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\FlatTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\HackTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmMain.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Forms.frmBorder.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmPhoto.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmSettings.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Monitorear.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Notification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Player.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.PopupStatus.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\KosmoChat.csproj.GenerateResource.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\KosmoChat.csproj.CoreCompileInputs.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\KosmoChat.csproj.CopyComplete
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmRfs.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmTransferProgress.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\KosmoChat.Properties.Resources.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\bin\Debug\KosmoChat.exe.config
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\bin\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\bin\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\bin\Debug\OM.Plugin.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\bin\Debug\OM.Packet.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.csprojAssemblyReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.csproj.ResolveComReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\TINserverlauncher.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmRfs.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmTransferProgress.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\FlatTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\HackTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.Properties.Resources.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.csproj.GenerateResource.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.csproj.CoreCompileInputs.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.csproj.CopyComplete
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.Controles.UserPanel.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.Emoticons.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.frmLoadingScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.frmFileTransfer.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.frmCP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.frmMP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.frmKeyUp.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.frmResize.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.frm.frmUserZinc.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\Kosmo.frmViewScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.frmInfo.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.MessageNotification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.frmMain.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.Forms.frmBorder.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.frmPhoto.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.frmSettings.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.Monitorear.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.Notification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.Player.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.PopupStatus.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\bin\Debug\KosmoChat.exe.config
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\bin\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\bin\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\bin\Debug\OM.Plugin.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\bin\Debug\OM.Packet.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.csprojAssemblyReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.csproj.ResolveComReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\TINserverlauncher.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.Controles.UserPanel.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.Emoticons.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.frmLoadingScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.frmFileTransfer.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.frmCP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.frmMP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.frmKeyUp.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.frmResize.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.frm.frmUserZinc.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\Kosmo.frmViewScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.frmInfo.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.MessageNotification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmRfs.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmTransferProgress.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\FlatTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\HackTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.frmMain.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.Forms.frmBorder.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.frmPhoto.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.frmSettings.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.Monitorear.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.Notification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.Player.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.PopupStatus.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.Properties.Resources.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.csproj.GenerateResource.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.csproj.CoreCompileInputs.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.csproj.CopyComplete
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\KosmoChat\obj\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.csprojAssemblyReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.csproj.ResolveComReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\TINserverlauncher.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.Controles.UserPanel.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.Emoticons.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.frmLoadingScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.frmFileTransfer.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.frmCP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.frmMP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.frmKeyUp.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.frmResize.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.frm.frmUserZinc.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\Kosmo.frmViewScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.frmInfo.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.MessageNotification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmRfs.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmTransferProgress.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\FlatTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\HackTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.frmMain.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.Forms.frmBorder.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.frmPhoto.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.frmSettings.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.Monitorear.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.Notification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.Player.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.PopupStatus.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.Properties.Resources.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.csproj.GenerateResource.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.csproj.CoreCompileInputs.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\bin\Debug\KosmoChat.exe.config
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\bin\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\bin\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\bin\Debug\Guna.UI2.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\bin\Debug\OM.Plugin.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\bin\Debug\OM.Packet.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Prueba\KosmoChat\obj\Debug\KosmoChat.csproj.CopyComplete
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\KosmoChat\obj\Debug\KosmoChat.MainR.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\bin\Debug\KosmoChat.exe.config
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\bin\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\bin\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\bin\Debug\OM.Plugin.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\bin\Debug\OM.Packet.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.csprojAssemblyReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.csproj.ResolveComReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\TINserverlauncher.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.Controles.UserPanel.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.Emoticons.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.frmLoadingScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.frmFileTransfer.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.frmCP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.frmMP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.frmKeyUp.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.frmResize.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.frm.frmUserZinc.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\Kosmo.frmViewScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.frmInfo.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.MessageNotification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmRfs.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmTransferProgress.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\FlatTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\HackTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.frmMain.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.Forms.frmBorder.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.frmPhoto.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.frmSettings.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.Monitorear.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.Notification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.Player.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.PopupStatus.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.MainR.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.Properties.Resources.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.csproj.GenerateResource.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.csproj.CoreCompileInputs.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.csproj.CopyComplete
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\prueba 1\KosmoChat\obj\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\bin\Debug\KosmoChat.exe.config
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\bin\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\bin\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\bin\Debug\Guna.UI2.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\bin\Debug\OM.Plugin.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\bin\Debug\OM.Packet.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.csprojAssemblyReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.csproj.ResolveComReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\TINserverlauncher.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.Controles.UserPanel.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.Emoticons.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.frmLoadingScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.frmFileTransfer.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.frmCP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.frmMP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.frmKeyUp.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.frmResize.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.frm.frmUserZinc.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\Kosmo.frmViewScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.frmInfo.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.MessageNotification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmRfs.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmTransferProgress.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\FlatTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\HackTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.frmMain.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.Forms.frmBorder.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.frmPhoto.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.frmSettings.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.Monitorear.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.Notification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.Player.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.PopupStatus.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.MainR.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.Properties.Resources.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.csproj.GenerateResource.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.csproj.CoreCompileInputs.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.csproj.CopyComplete
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\KosmoChat\obj\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\bin\Debug\KosmoChat.exe.config
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\bin\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\bin\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\bin\Debug\OM.Plugin.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\bin\Debug\OM.Packet.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.csprojAssemblyReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.csproj.ResolveComReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\TINserverlauncher.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.Controles.UserPanel.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.Emoticons.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.frmLoadingScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.frmFileTransfer.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.frmCP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.frmMP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.frmKeyUp.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.frmResize.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.frm.frmUserZinc.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\Kosmo.frmViewScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.frmInfo.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.MessageNotification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmRfs.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.Class.RemoteFileSystem.frmTransferProgress.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\FlatTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\HackTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.frmMain.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.Forms.frmBorder.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.frmPhoto.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.frmSettings.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.Monitorear.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.Notification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.Player.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.PopupStatus.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.MainR.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.Properties.Resources.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.csproj.GenerateResource.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.csproj.CoreCompileInputs.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.csproj.CopyComplete
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\Estable\Prueba\KosmoChat\obj\Debug\KosmoChat.pdb

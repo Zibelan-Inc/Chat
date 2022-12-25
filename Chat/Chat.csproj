@@ -1,0 +1,830 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{11F71227-7DF7-466F-A090-E09465C7D964}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Chat</RootNamespace>
+    <AssemblyName>Chat</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\editado\KosmoChat\bin\Debug\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\..\..\Librerías\Json net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NHunspell">
+      <HintPath>..\..\..\..\..\..\..\Regueros\Compartido\outputmessengers\NHunspell.dll</HintPath>
+    </Reference>
+    <Reference Include="NHunspellExtender">
+      <HintPath>..\..\..\..\..\..\..\Regueros\Compartido\outputmessengers\NHunspellExtender.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Channels" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TcpComm">
+      <HintPath>..\..\..\..\SkynetChat\SkynetChat\bin\SkynetChat\TcpComm.dll</HintPath>
+    </Reference>
+    <Reference Include="TeamTalk4Pro.NET, Version=4.6.0.2927, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Librerías\TeamTalk4\TeamTalk4Pro.NET.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Chat\ChatMaster.cs" />
+    <Compile Include="Chat\Client.cs" />
+    <Compile Include="Chat\HttpServer.cs" />
+    <Compile Include="Chat\LanChat\ChatView.cs" />
+    <Compile Include="Chat\LanChat\Client\ChatServiceClient.cs" />
+    <Compile Include="Chat\LanChat\DelegateCommand.cs" />
+    <Compile Include="Chat\LanChat\Network\ChatEngine.cs" />
+    <Compile Include="Chat\LanChat\Network\ChatService.cs" />
+    <Compile Include="Chat\Message.cs" />
+    <Compile Include="Chat\Multicast_UDP.cs" />
+    <Compile Include="Chat\Orekaria\EncriptHelper.cs" />
+    <Compile Include="Chat\Orekaria\P2PHelper.cs" />
+    <Compile Include="Chat\Orekaria\UdpHelper.cs" />
+    <Compile Include="Chat\TeamTalk\TeamTalk.cs" />
+    <Compile Include="Class\AnimateNotifyIcon.cs" />
+    <Compile Include="Class\AvatarManager.cs" />
+    <Compile Include="Class\css.cs" />
+    <Compile Include="Class\DragManager.cs" />
+    <Compile Include="Class\FileTransfer.cs" />
+    <Compile Include="Class\FileTransfer\Client.cs" />
+    <Compile Include="Class\FileTransfer\Server.cs" />
+    <Compile Include="Class\FirewallHelper.cs" />
+    <Compile Include="Class\FlashWin.cs" />
+    <Compile Include="Class\HtmlHelper.cs" />
+    <Compile Include="Class\Imagenes.cs" />
+    <Compile Include="Class\InternetExplorerBrowserEmulation.cs" />
+    <Compile Include="Class\IPAddrHelper.cs" />
+    <Compile Include="Class\KeyboardHook\KeyboardHook.cs" />
+    <Compile Include="Class\LetterImage.cs" />
+    <Compile Include="Class\Media.cs" />
+    <Compile Include="Class\PingManager.cs" />
+    <Compile Include="Class\Remote\Client.cs" />
+    <Compile Include="Class\Remote\Server.cs" />
+    <Compile Include="Class\Remote\Shared.cs" />
+    <Compile Include="Class\Service\ServiceInstall.cs" />
+    <Compile Include="Class\Service\Service.cs" />
+    <Compile Include="Class\SetTimeAndDate.cs" />
+    <Compile Include="Class\Chat\RemoteDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\Chat\RemoteDesktop.designer.cs">
+      <DependentUpon>RemoteDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\Chat\ScreenCapturedll.cs" />
+    <Compile Include="Class\SystemIdleTimer.cs" />
+    <Compile Include="Class\UpdateManager.cs" />
+    <Compile Include="Class\WriteLog.cs" />
+    <Compile Include="Controles\HackComboColors.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\HackMusicProgres.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\UserPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frm\Emoticons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\Emoticons.designer.cs">
+      <DependentUpon>Emoticons.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmLoadingScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmLoadingScreen.Designer.cs">
+      <DependentUpon>frmLoadingScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmFileTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmFileTransfer.designer.cs">
+      <DependentUpon>frmFileTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmCP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmCP.designer.cs">
+      <DependentUpon>frmCP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmMP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmMP.designer.cs">
+      <DependentUpon>frmMP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmKeyUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmKeyUp.designer.cs">
+      <DependentUpon>frmKeyUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmUserZinc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmUserZinc.Designer.cs">
+      <DependentUpon>frmUserZinc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmViewScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmViewScreen.designer.cs">
+      <DependentUpon>frmViewScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmInfo.designer.cs">
+      <DependentUpon>frmInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\MessageNotification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\MessageNotification.designer.cs">
+      <DependentUpon>MessageNotification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainR.Designer.cs">
+      <DependentUpon>MainR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modcommon.cs" />
+    <Compile Include="Class\NativeMethods.cs" />
+    <Compile Include="Class\RemoteFileSystem\CopyFiles.cs" />
+    <Compile Include="Class\RemoteFileSystem\DragDropHelper.cs" />
+    <Compile Include="Class\RemoteFileSystem\FileSystemServer.cs" />
+    <Compile Include="Class\RemoteFileSystem\frmRfs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\RemoteFileSystem\frmRfs.designer.cs" />
+    <Compile Include="Class\RemoteFileSystem\frmTransferProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\RemoteFileSystem\frmTransferProgress.designer.cs" />
+    <Compile Include="Class\RemoteFileSystem\RemoteFileSystem.cs" />
+    <Compile Include="Class\RemoteFileSystem\RemoteFileSystem2.cs" />
+    <Compile Include="Class\RemoteFileSystem\XmlObject.cs" />
+    <Compile Include="Class\Screenshot.cs" />
+    <Compile Include="Class\Chat\DesktopServer.cs" />
+    <Compile Include="Class\Chat\SaveSettings.cs" />
+    <Compile Include="Class\Chat\ScreenCapture.cs" />
+    <Compile Include="Class\Chat\ScreenCaptureServer.cs" />
+    <Compile Include="Class\Chat\Settings.cs" />
+    <Compile Include="Class\Chat\UserAndSystemInfo.cs" />
+    <Compile Include="Class\Template.cs" />
+    <Compile Include="Class\MessengerCell.cs" />
+    <Compile Include="Class\UserStatus.cs" />
+    <Compile Include="Class\Variables.cs" />
+    <Compile Include="Class\WinMod.cs" />
+    <Compile Include="Controles\AddLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\ComboBoxCustom.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\CustomTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\DragLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\FlatDropDown.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\FlatNumericupDown.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\FlatTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\HackLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\HackLabelColor.cs" />
+    <Compile Include="Controles\HackNotificationBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\HackNUD.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\HackNumericUpDown.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\HackProgress.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\HackProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\HackProgressIndicator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\HackRadio.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\HackRadioB.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\HackRadioButtom.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\HackTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\HackTrackB.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\HackTrackBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\LabelEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\PanelEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\SiNo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\SplitContainerEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\SplitterBorderlessEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\SplitterEX.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\StyleTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\TabStyleAngledProvider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\TabStyleChrome2Provider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\TabStyleChromeProvider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\TabStyleDefaultProvider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\TabStyleIE8Provider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\TabStyleProvider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\TabStyleRoundedProvider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\TabStyleVisualStudioProvider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\TabStyleVS2010Provider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\TRichTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\WaterMarkRichText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\WaterMarkText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\WebBrowserEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\WindowMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\YesNo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmBorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmBorder.designer.cs">
+      <DependentUpon>frmBorder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmPhoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmPhoto.designer.cs">
+      <DependentUpon>frmPhoto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmResize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmResize.designer.cs">
+      <DependentUpon>frmResize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmSettings.designer.cs">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\Monitorear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\Monitorear.designer.cs">
+      <DependentUpon>Monitorear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\Notification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\Notification.designer.cs">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\Player.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\Player.designer.cs">
+      <DependentUpon>Player.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\PopupStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\PopupStatus.designer.cs">
+      <DependentUpon>PopupStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\RemoteDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\RemoteDesktop.designer.cs">
+      <DependentUpon>RemoteDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Class\Chat\RemoteDesktop.resx">
+      <DependentUpon>RemoteDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controles\UserPanel.resx">
+      <DependentUpon>UserPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\Emoticons.resx">
+      <DependentUpon>Emoticons.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmLoadingScreen.resx">
+      <DependentUpon>frmLoadingScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmFileTransfer.resx">
+      <DependentUpon>frmFileTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmCP.resx">
+      <DependentUpon>frmCP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmMP.resx">
+      <DependentUpon>frmMP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmKeyUp.resx">
+      <DependentUpon>frmKeyUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmResize.resx">
+      <DependentUpon>frmResize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmUserZinc.resx">
+      <DependentUpon>frmUserZinc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmViewScreen.resx">
+      <DependentUpon>frmViewScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmInfo.resx">
+      <DependentUpon>frmInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\MessageNotification.resx">
+      <DependentUpon>MessageNotification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Class\RemoteFileSystem\frmRfs.resx" />
+    <EmbeddedResource Include="Class\RemoteFileSystem\frmTransferProgress.resx" />
+    <EmbeddedResource Include="Controles\FlatTextBox.resx">
+      <DependentUpon>FlatTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controles\HackTextBox.resx">
+      <DependentUpon>HackTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmBorder.resx">
+      <DependentUpon>frmBorder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmPhoto.resx">
+      <DependentUpon>frmPhoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmSettings.resx">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\Monitorear.resx">
+      <DependentUpon>Monitorear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\Notification.resx">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\Player.resx">
+      <DependentUpon>Player.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\PopupStatus.resx">
+      <DependentUpon>PopupStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\RemoteDesktop.resx">
+      <DependentUpon>RemoteDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainR.resx">
+      <DependentUpon>MainR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Controles\App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\VoipServer.zip" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo.ico" />
+    <None Include="Resources\ic_launcher.png" />
+    <None Include="Resources\widescreen_21.png" />
+    <None Include="Resources\widescreen_20.png" />
+    <None Include="Resources\widescreen_19.png" />
+    <None Include="Resources\widescreen_18.png" />
+    <None Include="Resources\widescreen_17.png" />
+    <None Include="Resources\widescreen_16.png" />
+    <None Include="Resources\widescreen_15.png" />
+    <None Include="Resources\widescreen_14.png" />
+    <None Include="Resources\widescreen_13.png" />
+    <None Include="Resources\widescreen_12.png" />
+    <None Include="Resources\widescreen_11.png" />
+    <None Include="Resources\widescreen_10.png" />
+    <None Include="Resources\widescreen_9.png" />
+    <None Include="Resources\widescreen_8.png" />
+    <None Include="Resources\widescreen_7.png" />
+    <None Include="Resources\widescreen_6.png" />
+    <None Include="Resources\widescreen_5.png" />
+    <None Include="Resources\widescreen_4.png" />
+    <None Include="Resources\widescreen_3.png" />
+    <None Include="Resources\widescreen_2.png" />
+    <None Include="Resources\widescreen_1.png" />
+    <None Include="Resources\widescreen_0.png" />
+    <None Include="Resources\doorbell_21.png" />
+    <None Include="Resources\doorbell_20.png" />
+    <None Include="Resources\doorbell_19.png" />
+    <None Include="Resources\doorbell_18.png" />
+    <None Include="Resources\doorbell_17.png" />
+    <None Include="Resources\doorbell_16.png" />
+    <None Include="Resources\doorbell_15.png" />
+    <None Include="Resources\doorbell_14.png" />
+    <None Include="Resources\doorbell_13.png" />
+    <None Include="Resources\doorbell_12.png" />
+    <None Include="Resources\doorbell_11.png" />
+    <None Include="Resources\doorbell_10.png" />
+    <None Include="Resources\doorbell_9.png" />
+    <None Include="Resources\doorbell_8.png" />
+    <None Include="Resources\doorbell_7.png" />
+    <None Include="Resources\doorbell_6.png" />
+    <None Include="Resources\doorbell_5.png" />
+    <None Include="Resources\doorbell_4.png" />
+    <None Include="Resources\doorbell_3.png" />
+    <None Include="Resources\doorbell_2.png" />
+    <None Include="Resources\doorbell_1.png" />
+    <None Include="Resources\doorbell_0.png" />
+    <None Include="Resources\chat_bubble_21.png" />
+    <None Include="Resources\chat_bubble_20.png" />
+    <None Include="Resources\chat_bubble_19.png" />
+    <None Include="Resources\chat_bubble_18.png" />
+    <None Include="Resources\chat_bubble_17.png" />
+    <None Include="Resources\chat_bubble_16.png" />
+    <None Include="Resources\chat_bubble_15.png" />
+    <None Include="Resources\chat_bubble_14.png" />
+    <None Include="Resources\chat_bubble_13.png" />
+    <None Include="Resources\chat_bubble_12.png" />
+    <None Include="Resources\chat_bubble_11.png" />
+    <None Include="Resources\chat_bubble_10.png" />
+    <None Include="Resources\chat_bubble_9.png" />
+    <None Include="Resources\chat_bubble_8.png" />
+    <None Include="Resources\chat_bubble_7.png" />
+    <None Include="Resources\chat_bubble_6.png" />
+    <None Include="Resources\chat_bubble_5.png" />
+    <None Include="Resources\chat_bubble_4.png" />
+    <None Include="Resources\chat_bubble_3.png" />
+    <None Include="Resources\chat_bubble_2.png" />
+    <None Include="Resources\chat_bubble_1.png" />
+    <None Include="Resources\chat_bubble_0.png" />
+    <None Include="Resources\forward_21.png" />
+    <None Include="Resources\forward_20.png" />
+    <None Include="Resources\forward_19.png" />
+    <None Include="Resources\forward_18.png" />
+    <None Include="Resources\forward_17.png" />
+    <None Include="Resources\forward_16.png" />
+    <None Include="Resources\forward_15.png" />
+    <None Include="Resources\forward_14.png" />
+    <None Include="Resources\forward_13.png" />
+    <None Include="Resources\forward_12.png" />
+    <None Include="Resources\forward_11.png" />
+    <None Include="Resources\forward_10.png" />
+    <None Include="Resources\forward_9.png" />
+    <None Include="Resources\forward_8.png" />
+    <None Include="Resources\forward_7.png" />
+    <None Include="Resources\forward_6.png" />
+    <None Include="Resources\forward_5.png" />
+    <None Include="Resources\forward_4.png" />
+    <None Include="Resources\forward_3.png" />
+    <None Include="Resources\forward_2.png" />
+    <None Include="Resources\forward_1.png" />
+    <None Include="Resources\forward_0.png" />
+    <None Include="Resources\back_21.png" />
+    <None Include="Resources\back_20.png" />
+    <None Include="Resources\back_19.png" />
+    <None Include="Resources\back_18.png" />
+    <None Include="Resources\back_17.png" />
+    <None Include="Resources\back_16.png" />
+    <None Include="Resources\back_15.png" />
+    <None Include="Resources\back_14.png" />
+    <None Include="Resources\back_13.png" />
+    <None Include="Resources\back_12.png" />
+    <None Include="Resources\back_11.png" />
+    <None Include="Resources\back_10.png" />
+    <None Include="Resources\back_9.png" />
+    <None Include="Resources\back_8.png" />
+    <None Include="Resources\back_7.png" />
+    <None Include="Resources\back_6.png" />
+    <None Include="Resources\back_5.png" />
+    <None Include="Resources\back_4.png" />
+    <None Include="Resources\back_3.png" />
+    <None Include="Resources\back_2.png" />
+    <None Include="Resources\back_1.png" />
+    <None Include="Resources\back_0.png" />
+    <None Include="Resources\smile_21.png" />
+    <None Include="Resources\smile_20.png" />
+    <None Include="Resources\smile_19.png" />
+    <None Include="Resources\smile_18.png" />
+    <None Include="Resources\smile_17.png" />
+    <None Include="Resources\smile_16.png" />
+    <None Include="Resources\smile_15.png" />
+    <None Include="Resources\smile_14.png" />
+    <None Include="Resources\smile_13.png" />
+    <None Include="Resources\smile_12.png" />
+    <None Include="Resources\smile_11.png" />
+    <None Include="Resources\smile_10.png" />
+    <None Include="Resources\smile_9.png" />
+    <None Include="Resources\smile_8.png" />
+    <None Include="Resources\smile_7.png" />
+    <None Include="Resources\smile_6.png" />
+    <None Include="Resources\smile_5.png" />
+    <None Include="Resources\smile_4.png" />
+    <None Include="Resources\smile_3.png" />
+    <None Include="Resources\smile_2.png" />
+    <None Include="Resources\smile_1.png" />
+    <None Include="Resources\smile_0.png" />
+    <None Include="Resources\delivery_time.png" />
+    <None Include="Resources\order_history.png" />
+    <None Include="Resources\file_explorer.png" />
+    <None Include="Resources\imac_desktop.png" />
+    <None Include="Resources\webcam_call.png" />
+    <None Include="Resources\phone_call.png" />
+    <None Include="Resources\whistle.png" />
+    <None Include="Resources\speaker.png" />
+    <None Include="Resources\copy_file.png" />
+    <None Include="Resources\messages_Chat.png" />
+    <None Include="Resources\bbm_messenger.png" />
+    <None Include="Resources\email_send_21.png" />
+    <None Include="Resources\email_send_20.png" />
+    <None Include="Resources\email_send_19.png" />
+    <None Include="Resources\email_send_18.png" />
+    <None Include="Resources\email_send_17.png" />
+    <None Include="Resources\email_send_16.png" />
+    <None Include="Resources\email_send_15.png" />
+    <None Include="Resources\email_send_14.png" />
+    <None Include="Resources\email_send_13.png" />
+    <None Include="Resources\email_send_12.png" />
+    <None Include="Resources\email_send_11.png" />
+    <None Include="Resources\email_send_10.png" />
+    <None Include="Resources\email_send_9.png" />
+    <None Include="Resources\email_send_8.png" />
+    <None Include="Resources\email_send_7.png" />
+    <None Include="Resources\email_send_6.png" />
+    <None Include="Resources\email_send_5.png" />
+    <None Include="Resources\email_send_4.png" />
+    <None Include="Resources\email_send_3.png" />
+    <None Include="Resources\email_send_2.png" />
+    <None Include="Resources\email_send_1.png" />
+    <None Include="Resources\email_send_0.png" />
+    <None Include="Resources\exitpng1.png" />
+    <None Include="Resources\settingspng.png" />
+    <None Include="Resources\infopng.png" />
+    <None Include="Resources\monitor1.png" />
+    <None Include="Resources\music1.png" />
+    <None Include="Resources\updatepng.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\icon_button_back.png" />
+    <None Include="Resources\zibelan.JPG" />
+    <None Include="Resources\waaaahh!.wav" />
+    <None Include="Resources\voice_dialing.wav" />
+    <None Include="Resources\toSleep.wav" />
+    <None Include="Resources\SC_ICOoffline.ico" />
+    <None Include="Resources\message-high.wav" />
+    <None Include="Resources\giggle2.wav" />
+    <None Include="Resources\flush.wav" />
+    <None Include="Resources\cry.wav" />
+    <None Include="Resources\ccgiggle.wav" />
+    <None Include="Resources\Buzz.wav" />
+    <None Include="Resources\Broadcast.wav" />
+    <None Include="Resources\beep1.wav" />
+    <None Include="Resources\beep.wav" />
+    <None Include="Resources\beep.png" />
+    <None Include="Resources\webcam.png" />
+    <None Include="Resources\voice_chat1.png" />
+    <None Include="Resources\voice_chat.png" />
+    <None Include="Resources\video.png" />
+    <None Include="Resources\useridle4.png" />
+    <None Include="Resources\user_online_new.png" />
+    <None Include="Resources\staryy.png" />
+    <None Include="Resources\settings_unsel.png" />
+    <None Include="Resources\settings_sel.png" />
+    <None Include="Resources\search_left_new3.png" />
+    <None Include="Resources\SC_Message.ico" />
+    <None Include="Resources\SC_Logo.png" />
+    <None Include="Resources\SC_ICOoffline.png" />
+    <None Include="Resources\SC_ICO.ico" />
+    <None Include="Resources\SC_Clean.ico" />
+    <None Include="Resources\restore.gif" />
+    <None Include="Resources\remote_desktop_grey.png" />
+    <None Include="Resources\preset_message1.png" />
+    <None Include="Resources\pinstraight.png" />
+    <None Include="Resources\pinleft.png" />
+    <None Include="Resources\phonehandle.png" />
+    <None Include="Resources\online.png" />
+    <None Include="Resources\Notifyon2.png" />
+    <None Include="Resources\Notifyoff2.png" />
+    <None Include="Resources\network15_10.png" />
+    <None Include="Resources\miss_call.png" />
+    <None Include="Resources\MinimizeOscuro_1.png" />
+    <None Include="Resources\MinimizeNormal_2.png" />
+    <None Include="Resources\MinimizeNormal_1.png" />
+    <None Include="Resources\mini2.png" />
+    <None Include="Resources\min.png" />
+    <None Include="Resources\meter_outline_new3.png" />
+    <None Include="Resources\max1.png" />
+    <None Include="Resources\male.gif" />
+    <None Include="Resources\ls_disconnect_1.png" />
+    <None Include="Resources\ls_connect_1.png" />
+    <None Include="Resources\Logo_SC.png" />
+    <None Include="Resources\loader_20.gif" />
+    <None Include="Resources\load_40.gif" />
+    <None Include="Resources\idlechat.png" />
+    <None Include="Resources\hash_10.png" />
+    <None Include="Resources\file_send_s.png" />
+    <None Include="Resources\file_rightarrow.png" />
+    <None Include="Resources\file_downarrow.png" />
+    <None Include="Resources\Emotion.png" />
+    <None Include="Resources\emaill.png" />
+    <None Include="Resources\datetime.png" />
+    <None Include="Resources\closegc1.png" />
+    <None Include="Resources\closegc.png" />
+    <None Include="Resources\close2.png" />
+    <None Include="Resources\close_new.png" />
+    <None Include="Resources\chat1.png" />
+    <None Include="Resources\chat_right_arrow2.png" />
+    <None Include="Resources\CerrarOscuro_1.png" />
+    <None Include="Resources\CerrarNormal_2.png" />
+    <None Include="Resources\CerrarNormal_1.png" />
+    <None Include="Resources\casa.png" />
+    <None Include="Resources\c_gc.png" />
+    <None Include="Resources\buzz4.png" />
+    <None Include="Resources\buzz3.png" />
+    <None Include="Resources\bullets8.png" />
+    <None Include="Resources\arrow2s.png" />
+    <None Include="Resources\arrow_new_down2.png" />
+    <None Include="Resources\announcementrecent.png" />
+    <None Include="Resources\Animated_Sealed.gif" />
+    <None Include="Resources\add1.png" />
+    <None Include="Resources\ack_icons_thin.png" />
+    <None Include="Resources\ack_20_grey.png" />
+    <None Include="Resources\810.bmp" />
+    <None Include="Resources\762.bmp" />
+    <None Include="Resources\761.bmp" />
+    <None Include="Resources\629.bmp" />
+    <None Include="Resources\406.bmp" />
+    <None Include="Resources\281.bmp" />
+    <None Include="Resources\279.bmp" />
+    <None Include="Resources\262.bmp" />
+    <None Include="Resources\261.bmp" />
+    <None Include="Resources\243.bmp" />
+    <None Include="Resources\202.bmp" />
+    <None Include="Resources\201.bmp" />
+    <None Include="Resources\185.bmp" />
+    <None Include="Resources\184.bmp" />
+    <None Include="Resources\181.bmp" />
+    <None Include="Resources\105.png" />
+    <None Include="Resources\63.png" />
+    <None Include="Resources\60.png" />
+    <None Include="Resources\57.png" />
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="NetFwTypeLib">
+      <Guid>{58FBCF7C-E7A9-467C-80B3-FC65E8FCCA08}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\avatars\" />
+    <Folder Include="Nueva carpeta\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

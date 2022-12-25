@@ -1,0 +1,205 @@
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\bin\Debug\SkynetChat.exe.config
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\bin\Debug\SkynetChat.exe
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\bin\Debug\SkynetChat.pdb
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\bin\Debug\NHunspell.dll
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\bin\Debug\NHunspellExtender.dll
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\bin\Debug\TeamTalk4Pro.NET.dll
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\bin\Debug\OM.Plugin.dll
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\bin\Debug\OM.Packet.dll
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\Interop.NetFwTypeLib.dll
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.csproj.ResolveComReference.cache
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\TINserverlauncher.RemoteDesktop.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.Controles.UserPanel.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.Emoticons.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.frmLoadingScreen.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.frmFileTransfer.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.frmCP.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.frmMP.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.frmKeyUp.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.frmResize.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.frm.frmUserZinc.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\Skynet.frmViewScreen.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.frmInfo.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.MessageNotification.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.Class.RemoteFileSystem.frmRfs.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.Class.RemoteFileSystem.frmTransferProgress.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\FlatTextBox.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\HackTextBox.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.frmMain.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.Forms.frmBorder.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.frmPhoto.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.frmSettings.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.Monitorear.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.Notification.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.Player.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.PopupStatus.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.RemoteDesktop.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.Properties.Resources.resources
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.csproj.GenerateResource.Cache
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.exe
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.pdb
+D:\Instaladores\Programación\Projects\SkynetChat\SkynetChat\obj\Debug\SkynetChat.csprojResolveAssemblyReference.cache
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\bin\Debug\SkynetChat.exe.config
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\bin\Debug\SkynetChat.exe
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\bin\Debug\SkynetChat.pdb
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\bin\Debug\OM.Plugin.dll
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\bin\Debug\OM.Packet.dll
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.csprojAssemblyReference.cache
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.csproj.ResolveComReference.cache
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\TINserverlauncher.RemoteDesktop.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Controles.UserPanel.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Emoticons.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmLoadingScreen.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmFileTransfer.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmCP.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmMP.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmKeyUp.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmResize.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frm.frmUserZinc.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\Skynet.frmViewScreen.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmInfo.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.MessageNotification.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Class.RemoteFileSystem.frmRfs.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Class.RemoteFileSystem.frmTransferProgress.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\FlatTextBox.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\HackTextBox.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmMain.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Forms.frmBorder.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmPhoto.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmSettings.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Monitorear.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Notification.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Player.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.PopupStatus.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.RemoteDesktop.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Properties.Resources.resources
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.csproj.GenerateResource.cache
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.csproj.CoreCompileInputs.cache
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.csproj.CopyComplete
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.exe
+C:\Users\Yangel\Desktop\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.pdb
+D:\repos\Nueva carpeta\SkynetChat\bin\Debug\SkynetChat.exe.config
+D:\repos\Nueva carpeta\SkynetChat\bin\Debug\SkynetChat.exe
+D:\repos\Nueva carpeta\SkynetChat\bin\Debug\SkynetChat.pdb
+D:\repos\Nueva carpeta\SkynetChat\bin\Debug\Newtonsoft.Json.dll
+D:\repos\Nueva carpeta\SkynetChat\bin\Debug\OM.Plugin.dll
+D:\repos\Nueva carpeta\SkynetChat\bin\Debug\OM.Packet.dll
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.csprojAssemblyReference.cache
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\Interop.NetFwTypeLib.dll
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.csproj.ResolveComReference.cache
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\TINserverlauncher.RemoteDesktop.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Controles.UserPanel.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Emoticons.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmLoadingScreen.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmFileTransfer.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmCP.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmMP.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmKeyUp.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmResize.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frm.frmUserZinc.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\Skynet.frmViewScreen.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmInfo.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.MessageNotification.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Class.RemoteFileSystem.frmRfs.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Class.RemoteFileSystem.frmTransferProgress.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\FlatTextBox.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\HackTextBox.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmMain.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Forms.frmBorder.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmPhoto.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.frmSettings.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Monitorear.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Notification.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Player.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.PopupStatus.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.RemoteDesktop.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.Properties.Resources.resources
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.csproj.GenerateResource.cache
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.csproj.CoreCompileInputs.cache
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.csproj.CopyComplete
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.exe
+D:\repos\Nueva carpeta\SkynetChat\obj\Debug\SkynetChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\bin\Debug\SkynetChat.exe.config
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\bin\Debug\SkynetChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\bin\Debug\SkynetChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\bin\Debug\OM.Plugin.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\bin\Debug\OM.Packet.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.csprojAssemblyReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.csproj.ResolveComReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\TINserverlauncher.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.Controles.UserPanel.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.Emoticons.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.frmLoadingScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.frmFileTransfer.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.frmCP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.frmMP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.frmKeyUp.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.frmResize.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.frm.frmUserZinc.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\Skynet.frmViewScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.frmInfo.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.MessageNotification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.Class.RemoteFileSystem.frmRfs.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.Class.RemoteFileSystem.frmTransferProgress.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\FlatTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\HackTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.frmMain.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.Forms.frmBorder.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.frmPhoto.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.frmSettings.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.Monitorear.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.Notification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.Player.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.PopupStatus.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.Properties.Resources.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.csproj.GenerateResource.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.csproj.CoreCompileInputs.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.csproj.CopyComplete
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\copia\SkynetChat\obj\Debug\SkynetChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\bin\Debug\KosmoChat.exe.config
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\bin\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\bin\Debug\KosmoChat.pdb
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\bin\Debug\OM.Plugin.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\bin\Debug\OM.Packet.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.csprojAssemblyReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.csproj.ResolveComReference.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\TINserverlauncher.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Controles.UserPanel.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Emoticons.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmLoadingScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmFileTransfer.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmCP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmMP.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmKeyUp.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmResize.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frm.frmUserZinc.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\Skynet.frmViewScreen.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmInfo.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.MessageNotification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Class.RemoteFileSystem.frmRfs.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Class.RemoteFileSystem.frmTransferProgress.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\FlatTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\HackTextBox.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmMain.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Forms.frmBorder.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmPhoto.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.frmSettings.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Monitorear.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Notification.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Player.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.PopupStatus.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.RemoteDesktop.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.Properties.Resources.resources
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.csproj.GenerateResource.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.csproj.CoreCompileInputs.cache
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\SkynetChat.csproj.CopyComplete
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\KosmoChat.exe
+C:\Users\Yangel\source\repos\repos\Nueva carpeta\editado\SkynetChat\obj\Debug\KosmoChat.pdb
